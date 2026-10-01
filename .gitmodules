@@ -7,3 +7,6 @@
 [submodule "patch"]
 	path = patch
 	url = https://github.com/capyb2222/animegamepatch.git
+[submodule "resources"]
+	path = resources
+	url = https://github.com/capyb2222/LunaGC-Resources.git
